@@ -1,5 +1,5 @@
 # git
-Learning the basic commands of git
+Learning the basic commands of git.
 
 # Author 
 Drishti Bansal
